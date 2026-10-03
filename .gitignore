@@ -12,5 +12,7 @@ wheels/
 .chroma
 __*
 .idea/
+chroma/
 
 *.csv
+*.png
